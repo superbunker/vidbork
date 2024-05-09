@@ -1,0 +1,1 @@
+Mush and stretch vids without having to remember pesky ffmpeg commands.
